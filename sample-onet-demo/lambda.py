@@ -77,6 +77,7 @@ def get_on_the_job_response(intent, session):
         speech_output = "On the job, " + onet_title + " will:"
         for task_el in career_res.find('on_the_job').findall('task'):
             speech_output += " " + task_el.text
+        should_end_session = True
     else:
         speech_output = "I didn't understand that career. " \
                         "Please try again."
