@@ -1,0 +1,19 @@
+OnTheJobIntent what do {Career} do
+OnTheJobIntent what does a {Career} do
+OnTheJobIntent what do {Career} do on the job
+OnTheJobIntent what does a {Career} do on the job
+OnTheJobIntent what {Career} do
+OnTheJobIntent what a {Career} does
+OnTheJobIntent what an {Career} does
+OnTheJobIntent what {Career} do on the job
+OnTheJobIntent what a {Career} does on the job
+OnTheJobIntent what an {Career} does on the job
+OnTheJobIntent list what {Career} do
+OnTheJobIntent list what a {Career} does
+OnTheJobIntent list what an {Career} does
+OnTheJobIntent read what {Career} do
+OnTheJobIntent read what a {Career} does
+OnTheJobIntent read what an {Career} does
+OnTheJobIntent tell me what {Career} do
+OnTheJobIntent tell me what a {Career} does
+OnTheJobIntent tell me what an {Career} does

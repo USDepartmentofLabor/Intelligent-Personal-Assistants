@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Career",
+          "type": "LIST_OF_CAREERS"
+        }
+      ],
+      "intent": "OnTheJobIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
