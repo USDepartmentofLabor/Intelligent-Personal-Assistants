@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "ZipIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

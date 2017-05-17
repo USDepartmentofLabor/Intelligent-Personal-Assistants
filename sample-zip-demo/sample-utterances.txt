@@ -1,0 +1,5 @@
+ZipIntent what is my ZIP code
+ZipIntent what's my ZIP code
+ZipIntent tell me my ZIP code
+ZipIntent my ZIP code
+ZipIntent what my ZIP code is
