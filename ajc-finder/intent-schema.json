@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "ClosestCenterIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
