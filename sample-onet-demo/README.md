@@ -22,7 +22,7 @@ This skill is based on the Python "favorite color" sample from Amazon, using AWS
 
 6. At the "Lambda function handler and role" section, under "Role" choose "Create new role from template(s)". Add a role name (it doesn't matter what name you choose) and add the "Simple Microservice permissions" template. Then click Next.
 
-5. At the review screen, click "Create function" to finish the setup. Once it completes, take note of the **ARN** in the upper right corner -- you'll need that ID for the next step.
+7. At the review screen, click "Create function" to finish the setup. Once it completes, take note of the **ARN** in the upper right corner -- you'll need that ID for the next step.
 
 ### Part 2: Alexa Skill setup
 
