@@ -1,6 +1,6 @@
-# O*NET Demo Bot
+# O*NET ChatBot Demo
 
-## This is a demo of bot functionality based off of O*NET demo built in Lex.”
+## This is a demo of ChatBot functionality built in Lex - based off of O*NET Alexa Skill demo.”
 
 This directory contains a simple Lex Skill that calls [O*NET Web Services](https://services.onetcenter.org/). It returns the most important task statements for any of the 900+ careers in [My Next Move](https://www.mynextmove.org/).
 
